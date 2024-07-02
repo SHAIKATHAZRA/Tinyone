@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    
+}
+
+header{
+    background-color: #fcdb00;
+}
+.Two{
+    background-color: #010101;
+}
+footer div{
+    display: inline-block;
+}
+.box{
+    /* display: inline-block; */
+    display: grid;
+    width: 30%;
+    gap: 5;
+}
+.box2{
+    display: inline-block;
+    width: 30%;
+}
+.boximage , .boxcont{
+    display: inline-block;
+}
